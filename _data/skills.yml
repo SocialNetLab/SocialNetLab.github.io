@@ -1,19 +1,28 @@
-- name: Software Engineer Keywords
+- name: 编程技能
   keywords:
-      - Java
-      - C++
       - Python
-      - Design Patterns
+      - Javascript
+      - Html/Css
+      - Linux
 
-- name: Mobile Developer Keywords
-  keywords:
-      - Android
-      - Reverse Engineering
 
-- name: Windows Developer Keywords
+- name: 办公效率
   keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - PPT
+      - Excel
+
+
+- name: 绘图设计
+  keywords:
+      - Photoshop
+      - Illustrator
+      - Gephi
+
+
+- name: 英文写作
+  keywords:
+      - General
+      - Papers
+      - Terms
+
+

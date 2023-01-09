@@ -1,18 +1,18 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
+description: 积木的价值，在于内在的意义
 keywords: Zhuang Ma, 马壮
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+这里是积木小屋。
 
-仰慕「优雅编码的艺术」。
+向往「与自然、土地、人的真实连接」。
 
-坚信熟能生巧，努力改变人生。
+通过标准化集成模块，构筑内在精神世界。
 
 ## 联系
 
@@ -22,14 +22,14 @@ permalink: /about/
 {% endfor %}
 {% if site.url contains 'mazhuang.org' %}
 <li>
-微信公众号：<br />
-<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ site.url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" />
+微信公众号：待定<br />
+<!-- <img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ site.url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" /> -->
 </li>
 {% endif %}
 </ul>
 
 
-## Skill Keywords
+## 关键词
 
 {% for skill in site.data.skills %}
 ### {{ skill.name }}

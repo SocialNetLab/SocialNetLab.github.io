@@ -14,5 +14,6 @@
 
 ## 致谢
 
-本博客外观基于 [码志]([https://dongchuan.github.io](https://mazhuang.org/)) 修改，感谢！
-本博客参考[github pages]https://pages.github.com/ 相关设置。
+本博客外观基于 [码志]([https://dongchuan.github.io](https://mazhuang.org/)) 修改, 感谢！
+(源码地址见：https://github.com/mzlogin/mzlogin.github.io)
+本博客域名设置参考[github pages]https://pages.github.com/，感谢！
