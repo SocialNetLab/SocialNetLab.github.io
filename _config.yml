@@ -2,11 +2,11 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://socialnetlab.github.io/
 date_format: "ordinal"
-title: 轮子生产之家
-subtitle: ""
-description: "制造并收藏好用的轮子，锻造个人定制化SOP"
+title: SOP
+subtitle: "Standard Operating Procedure"
+description: "制造并收藏好用的轮子，锻造个性化知识系统"
 keywords: 代码块, SOP
 timezone: Asia/Guangdong
 encoding: "utf-8"
