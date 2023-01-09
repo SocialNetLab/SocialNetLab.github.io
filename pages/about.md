@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: 积木的价值，在于内在的意义
+description: 积木的价值，在于人赋予它的意义
 keywords: Zhuang Ma, 马壮
 comments: true
 menu: 关于
@@ -12,7 +12,7 @@ permalink: /about/
 
 向往「与自然、土地、人的真实连接」。
 
-通过标准化集成模块，构筑内在精神世界。
+通过标准化集成模块，构筑技能世界。
 
 ## 联系
 
