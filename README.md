@@ -2,6 +2,15 @@
 
 我的个人博客：<https://SocialNetLab.github.io>
 
+## 注意事项
+所用框架为Jekyll: http://jekyllcn.com/
+Jekyll博客规范的文件命名方式为：年-月-日-标题.md
+* 必须使用-，不能使用_；
+* 月份、日期必须补全，不能使用19-1-1；
+* 使用前一天的日期；
+（因为Github使用了格林尼治标准时间，也就是UTC。中国是东八时区，UTC+8，对于Jekyll来说是一个未来的时间，如果使用了当天的日期，可能无法及时得到页面更新。）
+
+
 ## 经验与思考
 
 * 简约。
@@ -23,3 +32,4 @@ _fragments 文件夹中是已发布的短文片段。
 images 文件夹中是我的文章和页面里使用的图片。
 
 本博客域名设置参考[github pages]https://pages.github.com/，感谢！
+

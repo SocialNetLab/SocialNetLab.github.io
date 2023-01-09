@@ -10,21 +10,7 @@ permalink: /about/
 
 这里是积木小屋。
 
-致力于通过标准化集成模块，建立「与世界的真实连接」。
-
-## 联系
-
-<ul>
-{% for website in site.data.social %}
-<li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
-{% endfor %}
-{% if site.url contains 'mazhuang.org' %}
-<li>
-微信公众号：待定<br />
-<!-- <img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ site.url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" /> -->
-</li>
-{% endif %}
-</ul>
+致力于构建「标准化集成模块」。
 
 
 ## 关键词
