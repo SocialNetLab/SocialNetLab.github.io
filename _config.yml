@@ -4,8 +4,8 @@
 baseurl:
 url: https://socialnetlab.github.io/
 date_format: "ordinal"
-title: SOP
-subtitle: "Standard Operating Procedure"
+title: 积木小屋
+subtitle: ""
 description: "制造并收藏好用的轮子，锻造个性化知识系统"
 keywords: 代码块, SOP
 timezone: Asia/Guangdong
@@ -52,12 +52,11 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Person
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: SocialNetLab
+location: Guangdong, China
 
 # ---------------- #
 #    Navigation    #
