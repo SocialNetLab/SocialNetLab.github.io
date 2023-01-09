@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python日期和时间计算time()、datetime()
+title: [Python] 日期和时间计算time()、datetime()
 categories: Python
 description: 给定一个目录root，读取根目录下的文件路径，返回列表
 keywords: Python
