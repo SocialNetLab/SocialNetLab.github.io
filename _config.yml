@@ -5,8 +5,8 @@ baseurl:
 url: https://socialnetlab.github.io/
 date_format: "ordinal"
 title: 积木小屋
-subtitle: ""
-description: "制造并收藏好用的轮子，锻造个性化知识系统"
+subtitle: "Jekyll打造的个人博客"
+description: "制造并收藏好用的轮子"
 keywords: 代码块, SOP
 timezone: Asia/Guangzhou
 encoding: "utf-8"

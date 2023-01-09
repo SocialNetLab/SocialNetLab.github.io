@@ -1,6 +1,7 @@
 # 轮子收藏家
 
-我的个人博客：<https://SocialNetLab.github.io>
+博客地址：https://SocialNetLab.github.io
+源码地址：https://github.com/SocialNetLab/SocialNetLab.github.io
 
 ## 注意事项
 所用框架为Jekyll: http://jekyllcn.com/
