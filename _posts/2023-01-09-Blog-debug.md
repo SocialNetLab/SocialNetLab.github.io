@@ -13,4 +13,10 @@ keywords: Markdown
 https://zhuanlan.zhihu.com/p/78332128
 
 
+## 本地预览
+
+下载 Jekyll，并使用它在本地搭建一个博客：
+
+https://www.jianshu.com/p/f43a75ed16d0
+
 

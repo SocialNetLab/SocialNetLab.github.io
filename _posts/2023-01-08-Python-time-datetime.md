@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Python)日期和时间计算time()、datetime()
+title: Python | 日期和时间计算time()、datetime()
 categories: Python
 description: 给定一个目录root，读取根目录下的文件路径，返回列表
 keywords: Python
@@ -9,33 +9,37 @@ keywords: Python
 
 ## 需求1
 将推特时间字符串转化为 “年/月/日 时:分:秒” 的形式
-'''
+
+```
 from datetime import datetime
 dd = datetime.strftime(datetime.strptime(b,"%a %b %d %H:%M:%S +0000 %Y"), "%Y/%m/%d/ %H:%M:%S")
-'''
+```
 
 ## 需求2
 将时间戳串转化为 “年/月/日 时:分:秒” 的形式
-'''
+
+```
 import time
 timeStamp = 1381419600
 timeArray = time.localtime(timeStamp)
 otherStyleTime = time.strftime("%Y--%m--%d %H:%M:%S", timeArray)
-'''
+```
 
 ## 需求3
 统计代码执行时间
-'''
+
+```
 from datetime import datetime
 T0 = datetime.now()
 T1 = datetime.now()
 print(T1-T0)     
-'''
+```
 
 
 ## 需求4
 获得昨天、今天、明天
-'''
+
+```
 import datetime
 today = datetime.datetime.today().date()
 yestoday = today + datetime.timedelta(days=-1)
@@ -43,11 +47,12 @@ tomorrow = today + datetime.timedelta(days=1)
 print(today) # 2019-01-30
 print(yestoday)# 2019-01-29
 print(tomorrow)# 2019-01-31
-'''
+```
 
 
 ## 需求5
 获取时间元组
+
 ```
 >>>import time
 >>> time.time()

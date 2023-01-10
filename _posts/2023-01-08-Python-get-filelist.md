@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Python)获取指定路径下的文件列表get_filelist()
+title: Python | 获取指定路径下的文件列表get_filelist()
 categories: Python
 description: 给定一个目录root，读取根目录下的文件路径，返回列表
 keywords: Python
