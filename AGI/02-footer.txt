@@ -1,0 +1,70 @@
+	<!-- 底部 开始-->
+	<div class="clearfix"></div>
+	<div class="footer" style="display: block; position: static;">
+		<!--友情链接-->
+		<div class="footer-link">
+			<div class="friend-link container">
+				<div class="link-title">
+					<img src="./index_files/icon_l.png" alt="">
+					<span>友情链接</span>
+				</div>
+				<span class="link-span">
+					<a target="_blank" href="https://xwxy.jnu.edu.cn/">
+						<img src="./index_files/icon_link.png">
+						新闻与传播学院
+					</a>
+					<a target="_blank" href="https://skc.jnu.edu.cn/">
+						<img src="./index_files/icon_link.png">
+						暨南大学社科处
+					</a>
+					<a target="_blank" href="https://gs.jnu.edu.cn/">
+						<img src="./index_files/icon_link.png">
+						研究生院官网
+					</a>
+					<a target="_blank" href="https://hrdam.jnu.edu.cn/ldjs/list.htm">
+						<img src="./index_files/icon_link.png">
+						暨南大学人事处
+					</a>
+					<a target="_blank" href="https://www.jnu.edu.cn/tz/list.psp">
+						<img src="./index_files/icon_link.png">
+						校内通知
+					</a>
+					<a target="_blank" href="https://ehall.jnu.edu.cn/taskcenter/workflow/index">
+						<img src="./index_files/icon_link.png">
+						网上服务大厅
+					</a>
+					<a target="_blank" href="https://news.jnu.edu.cn/">
+						<img src="./index_files/icon_link.png">
+						暨南大学新闻网
+					</a>
+				</span>
+			</div>
+		</div>
+		<!-- 地址邮编 -->
+		<div class="container footer-all">
+			<div class="container-information">
+				<!-- 左 -->
+				<div class="top">
+					<!-- 中 -->
+					<div class="container-center">
+						<p style="display:none;margin-top: 7px;margin-bottom: 8px;">
+							<span>地址：广东省广州市天河区黄埔大道西601号暨南大学石牌校区（邮编：510632)</span><span
+								class="l">l</span><span>电话：020-</span><span class="l">l</span><span>邮件：
+								osmartedu@jnu.edu.cn</span>
+						</p>
+						<p> <span class="iconfont icon-31dingwei"></span> 地址：广东省广州市天河区黄埔大道西601号暨南大学石牌校区（邮编：510632)</p>
+						<p> <span class="iconfont icon-youjian"></span> 邮件：jnu_practice@qq.cn</p>
+						<p> <span class="iconfont icon-yuanquan"></span> Copyright © 暨南大学AGI智媒体应用研发中心
+						</p>
+					</div>
+				</div>
+			</div>
+			
+			<!-- 右 -->
+			<div class="container-right">
+				<div class="img"><img src="./images/wechat.jpg" alt=""> </div>
+				<p> 公众号二维码</p>
+			</div>
+		</div>
+	</div>
+	<!-- 底部 结束 -->

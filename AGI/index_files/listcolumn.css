@@ -1,0 +1,150 @@
+.contents_bj {
+  padding-top: 1.3%;
+  background-image: url(/images/bg.jpg);
+  background-size: 100% 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.inner-banner {
+  position: relative;
+}
+.inner-banner .img {
+  height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.inner-banner .img img {
+  width: 100%;
+  height: 100%;
+}
+.inner-banner .banner_bg {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.inner-banner .local-title {
+  position: absolute;
+  bottom: 57%;
+  left: 18%;
+  color: #FFFFFF;
+  font-size: 30px;
+  font-weight: bold;
+}
+.inner-banner .common-local {
+  position: absolute;
+  bottom: 27.5%;
+  left: 18%;
+  color: #ffffff;
+  font-size: 16px;
+}
+.inner-banner .common-local a {
+  color: #ffffff;
+}
+.navlist2 li {
+  background-color: #F2F2F2;
+  width: 92%;
+}
+.common-right .common-list .list-S .list {
+  padding: 19px 30px 17px 20px;
+  background-color: #F5F5F5;
+}
+.common-right .common-list .list-S .list a {
+  display: flex;
+}
+.common-right .common-list .list-S .list a .time {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 64px;
+  height: 59px;
+  margin-right: 24px;
+  padding-top: 0.7%;
+}
+.common-right .common-list .list-S .list a .time .month_day {
+  position: relative;
+  width: 64px;
+  text-align: center;
+  line-height: 28px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #1899B1;
+}
+.common-right .common-list .list-S .list a .time .month_day::after {
+  content: "";
+  position: absolute;
+  bottom: -14px;
+  left: 36%;
+  border: 8px solid transparent;
+  border-top-color: #1899B1;
+}
+.common-right .common-list .list-S .list a .time .year {
+  width: 100%;
+  text-align: center;
+  line-height: 28px;
+  color: #666666;
+  background-color: #EEEEEE;
+  font-size: 14px;
+  border-bottom: 2px solid #FFA02F;
+}
+.common-right .common-list .list-S .list a .list-right {
+  width: 82%;
+}
+.common-right .common-list .list-S .list a .list-right .title {
+  color: #00768C;
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 8px;
+  word-break: keep-all;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.common-right .common-list .list-S .list a .list-right .content {
+  color: #010101;
+  font-size: 12px;
+  line-height: 22px;
+  text-indent: 2em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  /*想省略几行就写几*/
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+.common-right .common-list .list-S .list a .right {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.common-list>li.list-S:nth-child(2n) {
+  background-color: #F1F6F9;
+}
+/* 列表鼠标经过显示隐藏 */
+.common-list > li.list-S > .list {
+  display: none;
+}
+.common-list > li.list-S.active > .list {
+  display: block;
+}
+.common-list > li.list-S.active > .tit {
+  display: none;
+}
+@media (max-width: 991px) {
+  .inner-banner .common-local {
+    left: 15px;
+    bottom: 12.5%;
+    width: 60%;
+  }
+}
+@media (max-width: 760px) {
+  .inner-banner .img {
+    height: 85px;
+  }
+.inner-banner .img {
+    background-size: 150% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+}

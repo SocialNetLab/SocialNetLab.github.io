@@ -1,0 +1,176 @@
+	<!-- header -->
+	<!-- 头部 导航栏 开始 -->
+	<div class="header clearfix">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+					<!--logo-->
+					<div class="logo-d">
+						<a class="pull-right hidden-xs hidden-sm header-link" href="https://jnu.edu.cn/"
+							target="_blank">学校主页</a>
+						<!-- 二维码 -->
+						<figure class="header-wechat">
+							<img src="./iamges/wechat.jpg" alt="">
+						</figure>
+
+						<a href="./index.html"><img class="header-logo img-responsive pull-left"
+								src="./index_files/logo.png" alt="AGI智媒体应用研发中心"></a>
+
+						<div class="nav-search pull-right hidden-xs hidden-sm">
+							<form
+								action="./_web/_search/api/search/new.rst?locale=zh_CN&amp;request_locale=zh_CN&amp;_p=YXM9NjU5JnQ9MzE2MSZkPTEzMzIxJnA9MSZtPUMm"
+								method="post" target="_blank">
+								<input type="text" class="keywords" name="keyword" value="">
+								<input class="btn-sub" name="search" type="submit" value="">
+							</form>
+						</div>
+					</div>
+
+					<!-- <a class="pull-right hidden-xs hidden-sm header-link" href="https://jnu.edu.cn/" target="_blank">学校主页</a> -->
+					<!--左边icon-->
+					<div class="box-icon box-icon-nav hidden-lg hidden-md">
+						<span class="nav-collapse icon glyphicon glyphicon-menu-hamburger"></span>
+						<span class="nav-collapse icon-collapse glyphicon glyphicon-remove"></span>
+					</div>
+					<!--右边icon-->
+					<div class="box-icon box-icon-other hidden-lg hidden-md">
+						<span class="other-collapse glyphicon glyphicon-search"></span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="main-bg">
+		<div class="nav-all hidden-sm hidden-xs ">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12 hidden-sm hidden-xs">
+						<!-- PC端导航 -->
+						<nav class="nav">
+							<ul class="navlist clearfix">
+								<li class="active"><a href="./index.html" target="_self" style="padding: 0px 40px;"><span>首页</span></a></li>
+								<li class="nav-item"><a href="./中心简介.html" target="_self" style="padding: 0px 40px;"><span>中心概况</span></a>
+									<ul class="nav-item-menu">
+										<li><a href="./中心简介.html" target="_self"><span>中心简介</span></a></li>
+										<li><a href="./中心领导.html" target="_self"><span>中心领导</span></a></li>
+										<li><a href="./机构设置.html" target="_self"><span>机构设置</span></a></li>
+									</ul>
+								</li>
+								<li class="nav-item"><a href="./研究方向.html" target="_self"
+										style="padding: 0px 40px;"><span>科学研究</span></a>
+									<ul class="nav-item-menu">
+										<li><a href="./研究方向.html" target="_self"><span>研究方向</span></a></li>
+										<li><a href="./科研动态.html" target="_self"><span>科研动态</span></a></li>
+										<li><a href="./科研成果.html" target="_self"><span>科研成果</span></a></li>
+										<li><a href="./学术交流.html" target="_self"><span>学术交流</span></a></li>
+										<li><a href="./开放数据.html" target="_self"><span>开放数据</span></a></li>
+									</ul>
+								</li>
+								<li class="nav-item"><a href="./成果转化.html" target="_self"
+										style="padding: 0px 40px;"><span>成果转化</span></a>
+									<ul class="nav-item-menu">
+										<li><a href="./成果转化.html" target="_self"><span>产业化建设</span></a></li>
+										<li><a href="./成果转化.html" target="_self"><span>合作单位</span></a></li>
+									</ul>
+								</li>
+								<li class="nav-item"><a href="./师资概况.html" target="_self"
+										style="padding: 0px 40px;"><span>师资力量</span></a>
+									<ul class="nav-item-menu"
+										style="display: none; height: 79px; padding-top: 0px; margin-top: 0px; padding-bottom: 0px; margin-bottom: 0px;">
+										<li><a href="./师资概况.html" target="_self"><span>师资概况</span></a></li>
+										<li><a href="./师资队伍.html" target="_self"><span>师资队伍</span></a></li>
+									</ul>
+								</li>
+								<li class="nav-item"><a href="./研究生培养.html" target="_self"
+										style="padding: 0px 40px;"><span>人才培养</span></a>
+									<ul class="nav-item-menu"
+										style="display: none; height: 118px; padding-top: 0px; margin-top: 0px; padding-bottom: 0px; margin-bottom: 0px;">
+										<li><a href="./研究生培养.html" target="_self"><span>研究生培养</span></a></li>
+										<li><a href="./博士生导师.html" target="_self"><span>博士生导师</span></a></li>
+										<li><a href="./硕士生导师.html" target="_self"><span>硕士生导师</span></a></li>
+									</ul>
+								</li>
+								<li class="nav-item"><a href="./人才招聘.html" target="_self"
+										style="padding: 0px 40px;"><span>英才招聘</span></a>
+									<ul class="nav-item-menu" style="display: none;">
+										<li><a href="./人才招聘.html" target="_self"><span>人才招聘</span></a></li>
+									</ul>
+								</li>
+								<li><a href="./联系我们.html" target="_self" style="padding: 0px 40px;"><span>联系我们</span></a></li>
+							</ul>
+
+						</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="box-mobile-form hidden-lg hidden-md">
+			<form
+				action="./_web/_search/api/search/new.rst?locale=zh_CN&amp;request_locale=zh_CN&amp;_p=YXM9NjU5JnQ9MzE2MSZkPTEzMzIxJnA9MSZtPUMm"
+				class="mobile-form-search" method="post" target="_blank">
+				<input class="mobile-input-search" type="text" name="keyword" value="">
+				<button type="submit" class="mobile-btn-search">
+					<span class="mobile-search-icon glyphicon glyphicon-search"></span>
+				</button>
+			</form>
+		</div>
+		<!-- 手机端导航 -->
+		<div class="nav-mobile hidden-md hidden-lg">
+			<ul class="mobile-navlist clearfix" style="max-height: 529px;">
+				<li><a href="./index.html" target="_self"><span>首页</span></a></li>
+				<li class="nav-item"><a href="javascript: void(0);" target="_self"><span>中心概况</span><span
+							class="mobile-span-icon glyphicon glyphicon-menu-down"></span></a>
+					<ul class="nav-item-menu">
+						<li><a href="./中心简介.html" target="_self"><span>中心简介</span></a></li>
+						<li><a href="./中心领导.html" target="_self"><span>中心领导</span></a></li>
+						<li><a href="./机构设置.html" target="_self"><span>机构设置</span></a></li>
+					</ul>
+				</li>
+				<li class="nav-item"><a href="javascript: void(0);" target="_self"><span>科学研究</span><span
+							class="mobile-span-icon glyphicon glyphicon-menu-down"></span></a>
+					<ul class="nav-item-menu">
+						<li><a href="./研究方向.html" target="_self"><span>研究方向</span></a></li>
+						<li><a href="./科研动态.html" target="_self"><span>科研动态</span></a></li>
+						<li><a href="./科研成果.html" target="_self"><span>科研成果</span></a></li>
+						<li><a href="./学术交流.html" target="_self"><span>学术交流</span></a></li>
+						<li><a href="./开放数据.html" target="_self"><span>开放数据</span></a></li>
+					</ul>
+				</li>
+				<li class="nav-item"><a href="javascript: void(0);" target="_self"><span>成果转化</span><span
+							class="mobile-span-icon glyphicon glyphicon-menu-down"></span></a>
+					<ul class="nav-item-menu">
+						<li><a href="./成果转化.html" target="_self"><span>产业化建设</span></a></li>
+						<li><a href="./成果转化.html" target="_self"><span>合作单位</span></a></li>
+					</ul>
+				</li>
+				<li class="nav-item"><a href="javascript: void(0);" target="_self"><span>师资力量</span><span
+							class="mobile-span-icon glyphicon glyphicon-menu-down"></span></a>
+					<ul class="nav-item-menu">
+						<li><a href="./师资概况.html" target="_self"><span>师资概况</span></a></li>
+						<li><a href="./师资队伍.html" target="_self"><span>师资队伍</span></a></li>
+					</ul>
+				</li>
+				<li class="nav-item"><a href="javascript: void(0);" target="_self"><span>人才培养</span><span
+							class="mobile-span-icon glyphicon glyphicon-menu-down"></span></a>
+					<ul class="nav-item-menu">
+						<li><a href="./研究生培养.html" target="_self"><span>研究生培养</span></a></li>
+						<li><a href="./博士生导师.html" target="_self"><span>博士生导师</span></a></li>
+						<li><a href="./硕士生导师.html" target="_self"><span>硕士生导师</span></a></li>
+					</ul>
+				</li>
+				<li class="nav-item"><a href="javascript: void(0);" target="_self"><span>英才招聘</span><span
+							class="mobile-span-icon glyphicon glyphicon-menu-down"></span></a>
+					<ul class="nav-item-menu">
+						<li><a href="./人才招聘.html" target="_self"><span>人才招聘</span></a></li>
+					</ul>
+				</li>
+				<li><a href="./联系我们.html" target="_self"><span>联系我们</span></a></li>
+			</ul>
+		</div>
+		<!-- 遮罩 -->
+		<div class="bg-nav-mobilce hidden-md hidden-lg"></div>
+		<div class="bg-nav-mobilce2 hidden-md hidden-lg"></div>
+		<div class="clearfix"></div>
+	</div>
+	<!-- 头部 导航栏 结束 -->
